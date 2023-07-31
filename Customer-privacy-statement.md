@@ -1,17 +1,17 @@
 # GORILLADEVS, INC. CUSTOMER PRIVACY STATEMENT
 
-***GORILLADEVS, INC.("GORILLADEVS ") values your privacy.*** To learn
+**_GORILLADEVS, INC.("GORILLADEVS ") values your privacy._** To learn
 more about what personal and user data GORILLADEVS collects, uses,
 retains and shares; how we protect your personal data in compliance with
 applicable laws such as the General Data Protection Regulation 2016/679
 ( "GDPR"); and what choices and means of control you have over your
 personal data, please read this statement in its entirety.
 
-***This privacy statement was last updated on May 24, 2023.***
+**_This privacy statement was last updated on May 24, 2023._**
 
-*If we make important changes to this privacy statement, we will post a
+_If we make important changes to this privacy statement, we will post a
 notice on our website and/or contact our customers as appropriate or as
-required by applicable law.*
+required by applicable law._
 
 <u>Table of Contents</u>
 
@@ -35,8 +35,7 @@ required by applicable law.*
 
 10. [How can I contact GORILLADEVS?](#how-can-i-contact-gorilladevs)
 
-
-1.  #### What does this privacy statement cover?
+11. #### What does this privacy statement cover?
 
 This statement describes GORILLADEVS's customer privacy practices for
 our GORILLADEVS -branded global websites, GORILLADEVS services,
@@ -49,8 +48,7 @@ experiences may have links to third-party websites or services. In most
 cases, those third-party resources are subject to the privacy practices
 and policies of those third parties and not GORILLADEVS.
 
-2.  #### What personal, user and product data does GORILLADEVS collect and
-    how does GORILLADEVS use and share the personal data it collects?
+2.  #### What personal, user and product data does GORILLADEVS collect and how does GORILLADEVS use and share the personal data it collects?
 
 GORILLADEVS may collect certain categories of data about you when you
 use our websites; use our services; receive our marketing
@@ -58,152 +56,107 @@ communications; interact with our customer service and support teams;
 and in other contexts. The data we collect can be broadly categorized as
 follows:
 
--   ***Personal Data:*** This is individually identifiable data that you
-    may choose to provide us. This may include basic information such as
-    your email address and phone number, or more sensitive information
-    such as your full date of birth or your payment information.
+- **_Personal Data:_** This is individually identifiable data that you
+  may choose to provide us. This may include basic information such as
+  your email address and phone number, or more sensitive information
+  such as your full date of birth or your payment information.
 
--   ***User Data:*** This is data that we collect from users of our
-    services. User data could include personal data such as your unique
-    GORILLADEVS user ID or account username and password, but sometimes
-    this user data is anonymous or "pseudonymous", i.e., certain user
-    data that could be made identifiable if associated with personal
-    data.
+- **_User Data:_** This is data that we collect from users of our
+  services. User data could include personal data such as your unique
+  GORILLADEVS user ID or account username and password, but sometimes
+  this user data is anonymous or "pseudonymous", i.e., certain user
+  data that could be made identifiable if associated with personal
+  data.
 
--   ***Location Data***: This is data we collect that help us determine
-    a location based on your IP address in order to customize our
-    Service and for other uses consistent with this Privacy Statement.
+- **_Location Data_**: This is data we collect that help us determine
+  a location based on your IP address in order to customize our
+  Service and for other uses consistent with this Privacy Statement.
 
 GORILLADEVS has various uses for your personal and user data you provide
 to us. Here are the principal contexts in which we may use, retain and
 share your personal and user data:
 
--   ***Websites and Account Management:*** Most often, you may browse
-    our websites without providing any personal data to us. However, if
-    you choose to establish a user account with GORILLADEVS, engage in
-    e-commerce, sign up for marketing communications, or interact with
-    our customer service teams or participate in a forum on our website,
-    we will likely need to collect some personal or user data from you.
-    In addition, our web servers automatically collect certain data by
-    default, such as IP addresses and other activity logs. This type of
-    data is used for website security and site improvement purposes.
-    Much of that data is not readily identifiable and is usually kept
-    anonymous. In order to maintain and improve our websites,
-    GORILLADEVS uses third party hosting, content management and
-    security partners, vendors and suppliers.
+- **_Websites and Account Management:_** Most often, you may browse
+  our websites without providing any personal data to us. However, if
+  you choose to establish a user account with GORILLADEVS, engage in
+  e-commerce, sign up for marketing communications, or interact with
+  our customer service teams or participate in a forum on our website,
+  we will likely need to collect some personal or user data from you.
+  In addition, our web servers automatically collect certain data by
+  default, such as IP addresses and other activity logs. This type of
+  data is used for website security and site improvement purposes.
+  Much of that data is not readily identifiable and is usually kept
+  anonymous. In order to maintain and improve our websites,
+  GORILLADEVS uses third party hosting, content management and
+  security partners, vendors and suppliers.
 
--   ***Sales:*** If you decide to purchase a service from GORILLADEVS,
-    we will need to collect certain personal data from you, including
-    payment-related information. Typically, we use third party partners,
-    vendors and suppliers, such as payment processing companies during
-    our sales.
+- **_Sales:_** If you decide to purchase a service from GORILLADEVS,
+  we will need to collect certain personal data from you, including
+  payment-related information. Typically, we use third party partners,
+  vendors and suppliers, such as payment processing companies during
+  our sales.
 
--   ***Marketing & Social Media:*** You may choose to receive
-    GORILLADEVS marketing communications, participate in an
-    event/contest/promotion with us, or connect with GORILLADEVS via
-    social media. If you do so, we will collect certain personal data
-    about you, such as your contact information, social media profile
-    information and, in order to determine your eligibility for a
-    contest or promotion, your full or partial dates of birth.
-    GORILLADEVS may share your personal data with our marketing agencies
-    and partners to carry out our marketing campaigns, contests and
-    promotions. If you wish to unsubscribe from our marketing, please
-    follow the opt-out link in the communications you receive from us;
-    update your contact preferences in your GORILLADEVS account
-    settings; or click [here]{.underline}.
+- **_Marketing & Social Media:_** You may choose to receive
+  GORILLADEVS marketing communications, participate in an
+  event/contest/promotion with us, or connect with GORILLADEVS via
+  social media. If you do so, we will collect certain personal data
+  about you, such as your contact information, social media profile
+  information and, in order to determine your eligibility for a
+  contest or promotion, your full or partial dates of birth.
+  GORILLADEVS may share your personal data with our marketing agencies
+  and partners to carry out our marketing campaigns, contests and
+  promotions. If you wish to unsubscribe from our marketing, please
+  follow the opt-out link in the communications you receive from us;
+  update your contact preferences in your GORILLADEVS account
+  settings; or click [here]{.underline}.
 
--   ***Product Registration:*** If you use GORILLADEVS services, you may
-    choose to establish a GORILLADEVS user account. A GORILLADEVS user
-    account profile may include your username, password, settings,
-    preferences, contact information, device ID information, and related
-    data. GORILLADEVS may share this information with other GORILLADEVS
-    subsidiaries and affiliates and vendors and suppliers, such as
-    third-party hosting partners. Certain GORILLADEVS product settings,
-    preference information, applications history and location-based
-    information may be used by GORILLADEVS product development and
-    improvement and customer service teams if you choose to enable
-    enhanced customer support services.
+- **_Product Registration:_** If you use GORILLADEVS services, you may
+  choose to establish a GORILLADEVS user account. A GORILLADEVS user
+  account profile may include your username, password, settings,
+  preferences, contact information, device ID information, and related
+  data. GORILLADEVS may share this information with other GORILLADEVS
+  subsidiaries and affiliates and vendors and suppliers, such as
+  third-party hosting partners. Certain GORILLADEVS product settings,
+  preference information, applications history and location-based
+  information may be used by GORILLADEVS product development and
+  improvement and customer service teams if you choose to enable
+  enhanced customer support services.
 
--   ***Customer Service & Support:*** If you choose to interact with
-    GORILLADEVS customer service and support -- whether it be via our
-    website, social media, chat, email or phone -- GORILLADEVS customer
-    service teams (some of whom work for outsourced vendors and
-    suppliers of GORILLADEVS) may have access to your account
-    information, product information, contact information and payment
-    information. You may also be required to answer certain security
-    questions to verify your identity and your call or session with
-    GORILLADEVS customer support may be recorded for quality and
-    training purposes.
+- **_Customer Service & Support:_** If you choose to interact with
+  GORILLADEVS customer service and support -- whether it be via our
+  website, social media, chat, email or phone -- GORILLADEVS customer
+  service teams (some of whom work for outsourced vendors and
+  suppliers of GORILLADEVS) may have access to your account
+  information, product information, contact information and payment
+  information. You may also be required to answer certain security
+  questions to verify your identity and your call or session with
+  GORILLADEVS customer support may be recorded for quality and
+  training purposes.
 
--   ***Job Opportunities:*** You may choose to apply for employment
-    opportunities at GORILLADEVS through the GORILLADEVS website. If you
-    complete an application for a job at GORILLADEVS, we may collect
-    your contact information, job history info and certain other
-    information that may be required or allowed under applicable laws to
-    screen candidates for employment. We may share this information with
-    other GORILLADEVS subsidiaries and affiliates and vendors and
-    suppliers who provide us with candidate search and hiring services.
+- **_Job Opportunities:_** You may choose to apply for employment
+  opportunities at GORILLADEVS through the GORILLADEVS website. If you
+  complete an application for a job at GORILLADEVS, we may collect
+  your contact information, job history info and certain other
+  information that may be required or allowed under applicable laws to
+  screen candidates for employment. We may share this information with
+  other GORILLADEVS subsidiaries and affiliates and vendors and
+  suppliers who provide us with candidate search and hiring services.
 
 The following table provides further information on some of the specific
 types of personal or user data we may collect from you, how we use it
 and with whom we may share it:
 
-  --------------------------------------------------------------------------
-  **DATA COLLECTED**         **PURPOSES OF USE**     **THIRD PARTIES WITH
-                                                     WHOM WE MAY SHARE IT**
-  -------------------------- ----------------------- -----------------------
-  First and Last Name        Account Management,     GORILLADEVS
-                             Sales, Marketing &      subsidiaries and
-                             Social Media, Customer  affiliates; Vendors and
-                             Service & Support; Job  Suppliers; Marketing
-                             Applications and        agencies who handle
-                             Employment Screening    campaigns on behalf of
-                                                     GORILLADEVS
-
-  Contact Information (e.g., Account Management,     GORILLADEVS
-  phone, email,              Sales, Marketing &      subsidiaries and
-  mailing/billing/shipping   Social Media, Customer  affiliates; Vendors and
-  address)                   Service & Support; Job  Suppliers; Marketing
-                             Applications and        agencies who handle
-                             Employment Screening    campaigns on behalf of
-                                                     GORILLADEVS
-
-  Payment Information (e.g., Sales, Customer Service Vendors and Suppliers
-  credit/debit card)         & Support               
-
-  Username and Password      Account Management,     Vendors and Suppliers
-                             Sales, Customer Service 
-                             & Support               
-
-  Full/Partial Date of Birth Sales, Marketing &      GORILLADEVS
-                             Social Media, Customer  subsidiaries and
-                             Service & Support; Job  affiliates; Vendors and
-                             Applications and        Suppliers; Marketing
-                             Employment Screening    agencies who handle
-                                                     campaigns/contests on
-                                                     behalf of GORILLADEVS
-
-  Answers to Account         Account Management,     Vendors and Suppliers
-  Security Questions         Customer Service &      
-                             Support                 
-
-  Internet Protocol (IP)     Web, Network and        GORILLADEVS
-  Addresses                  Product Security;       subsidiaries and
-                             Marketing & Social      affiliates; Vendors and
-                             Media; Customer Service Suppliers
-                             & Support               
-
-  Social Media Profile       Marketing & Social      Vendors and Suppliers;
-  Information                Media, Customer Service Marketing agencies who
-                             & Support               handle
-                                                     campaigns/contests on
-                                                     behalf of GORILLADEVS
-
-  Employment Background and  Job Applications and    GORILLADEVS
-  Screening Information      Employment Screening    subsidiaries and
-                                                     affiliates; Vendors and
-                                                     Suppliers
-  --------------------------------------------------------------------------
+| **DATA COLLECTED**                                                         | **PURPOSES OF USE**                                                                                                                    | **THIRD PARTIES WITH WHOM WE MAY SHARE IT**                                                                                                       |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| First and Last Name                                                        | Account Management,<br/>Sales, Marketing & Social Media,<br/>Customer Service & Support,<br/>Job Applications and Employment Screening | GORILLADEVS subsidiaries and affiliates;<br/>Vendors and Suppliers;<br/>Marketing agencies who handle campaigns on behalf of GORILLADEVS           |
+| Contact Information (e.g., phone, email, mailing/billing/shipping address) | Account Management,<br/>Sales, Marketing & Social Media,<br/>Customer Service & Support,<br/>Job Applications and Employment Screening | GORILLADEVS subsidiaries and affiliates;<br/>Vendors and Suppliers;<br/>Marketing agencies who handle campaigns on behalf of GORILLADEVS           |
+| Payment Information (e.g., credit/debit card)                              | Sales, Customer Service & Support                                                                                                      | Vendors and Suppliers                                                                                                                             |
+| Username and Password                                                      | Account Management,<br/>Sales, Customer Service & Support                                                                              | Vendors and Suppliers                                                                                                                             |
+| Full/Partial Date of Birth                                                 | Sales, Marketing & Social Media,<br/>Customer Service & Support,<br/>Job Applications and Employment Screening                         | GORILLADEVS subsidiaries and affiliates;<br/>Vendors and Suppliers;<br/>Marketing agencies who handle campaigns/contests on behalf of GORILLADEVS  |
+| Answers to Account Security Questions                                      | Account Management,<br/>Customer Service & Support                                                                                     | Vendors and Suppliers                                                                                                                             |
+| Internet Protocol (IP) Addresses                                           | Web, Network and Product Security;<br/>Marketing & Social Media;<br/>Customer Service & Support                                        | GORILLADEVS subsidiaries and affiliates;<br/>Vendors and Suppliers                                                                                 |
+| Social Media Profile Information                                            | Marketing & Social Media, Customer Service & Support                                                                                   | Vendors and Suppliers;<br/>Marketing agencies who handle campaigns/contests on behalf of GORILLADEVS                                              |
+| Employment Background and Screening Information                            | Job Applications and Employment Screening                                                                                              | GORILLADEVS subsidiaries and affiliates;<br/>Vendors and Suppliers                                                                                 |
 
 3.  #### Does GORILLADEVS use cookies and related technologies on its websites?
 
@@ -233,19 +186,19 @@ The use of such cookies is relatively standard. Most browsers are
 initially set up to accept them. However, if you prefer not to store
 cookies, you can choose to:
 
--   not use our sites
+- not use our sites
 
--   set your browser to notify you when you receive a cookie
+- set your browser to notify you when you receive a cookie
 
--   set your browser to refuse to accept cookies
+- set your browser to refuse to accept cookies
 
--   update or change your cookie preferences through our website tool
-    [here]{.underline}.
+- update or change your cookie preferences through our website tool
+  [here]{.underline}.
 
--   delete our cookies after visiting our site
+- delete our cookies after visiting our site
 
--   browse our site using your browser's anonymous usage setting (e.g.,
-    \"Incognito\" mode in Chrome)
+- browse our site using your browser's anonymous usage setting (e.g.,
+  \"Incognito\" mode in Chrome)
 
 You should also understand that some features of the GORILLADEVS website
 might not function properly if you do not accept cookies.
@@ -261,13 +214,13 @@ If you would like to opt-out of certain third party supported Internet
 advertising and behavioral targeting services, please visit any of the
 following:
 
--   <u>Google</u>
+- <u>Google</u>
 
--   <u>Facebook</u>
+- <u>Facebook</u>
 
--   <u>Twitter</u>
+- <u>Twitter</u>
 
--    <u>Adobe Marketing Cloud</u>
+- <u>Adobe Marketing Cloud</u>
 
 For additional information:
 https://www.consumer.ftc.gov/articles/how-protect-your-privacy-online
@@ -290,14 +243,14 @@ purposes have been fulfilled, we will securely delete personal data as
 appropriate. However, we may retain your personal data as long as any of
 the following circumstances apply:
 
--   your GORILLADEVS account or marketing subscription is active
+- your GORILLADEVS account or marketing subscription is active
 
--   to provide you with services or support that you have requested
+- to provide you with services or support that you have requested
 
--   to comply with applicable laws, including for tax and audit purposes
+- to comply with applicable laws, including for tax and audit purposes
 
--   to enforce GORILLADEVS 's rights, including litigation and debt
-    collection
+- to enforce GORILLADEVS 's rights, including litigation and debt
+  collection
 
 6.  #### Does GORILLADEVS sell personal data?
 
