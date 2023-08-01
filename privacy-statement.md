@@ -4,8 +4,6 @@ last_updated: August 2, 2023
 
 # GORILLADEVS, INC. CUSTOMER PRIVACY STATEMENT
 
-**_This privacy statement was last updated on August 2, 2023._**
-
 **_GORILLADEVS, INC.("GORILLADEVS ") values your privacy._** To learn
 more about what personal and user data GORILLADEVS collects, uses,
 retains and shares; how we protect your personal data in compliance with
