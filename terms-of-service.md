@@ -4,9 +4,6 @@ last_updated: August 2, 2023
 
 # TERMS OF USE FOR GORILLADEVS, INC.
 
-**_This document was last updated on August 2, 2023._**
-
-
 <u>Table of Contents</u>
 
 1.  [Our Services](#our-services)
