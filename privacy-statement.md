@@ -1,4 +1,10 @@
+---
+last_updated: August 2, 2023
+---
+
 # GORILLADEVS, INC. CUSTOMER PRIVACY STATEMENT
+
+**_This privacy statement was last updated on August 2, 2023._**
 
 **_GORILLADEVS, INC.("GORILLADEVS ") values your privacy._** To learn
 more about what personal and user data GORILLADEVS collects, uses,
@@ -6,8 +12,6 @@ retains and shares; how we protect your personal data in compliance with
 applicable laws such as the General Data Protection Regulation 2016/679
 ( "GDPR"); and what choices and means of control you have over your
 personal data, please read this statement in its entirety.
-
-**_This privacy statement was last updated on May 24, 2023._**
 
 _If we make important changes to this privacy statement, we will post a
 notice on our website and/or contact our customers as appropriate or as
@@ -35,7 +39,10 @@ required by applicable law._
 
 10. [How can I contact GORILLADEVS?](#how-can-i-contact-gorilladevs)
 
-11. #### What does this privacy statement cover?
+<!-- Comment to prevent next element from being next one in list -->
+
+
+1. #### What does this privacy statement cover?
 
 This statement describes GORILLADEVS's customer privacy practices for
 our GORILLADEVS -branded global websites, GORILLADEVS services,
@@ -193,7 +200,7 @@ cookies, you can choose to:
 - set your browser to refuse to accept cookies
 
 - update or change your cookie preferences through our website tool
-  [here]{.underline}.
+  here
 
 - delete our cookies after visiting our site
 

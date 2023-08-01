@@ -1,4 +1,11 @@
-**TERMS OF USE FOR GORILLADEVS, INC.**
+---
+last_updated: August 2, 2023
+---
+
+# TERMS OF USE FOR GORILLADEVS, INC.
+
+**_This document was last updated on August 2, 2023._**
+
 
 <u>Table of Contents</u>
 
@@ -34,13 +41,13 @@
 
 16. [Contacting GORILLADEVS](#contacting-gorilladevs)
 
-<!-- Comment to prevent this to be 17 -->
+<!-- Comment to prevent next element from being next one in list -->
 
 1. #### Our Services
 
 The following terms and conditions ("**Terms**") govern use of all
 content, services, and products (the "Service") provided by
-**[GORILLADEVS, Inc.]** ("GORILLADEVS") and available on the
+**GORILLADEVS, Inc.** ("GORILLADEVS") and available on the
 GORILLADEVS sites including but not limited to websites and applications
 (the "Site"). The Service is owned and operated by GORILLADEVS. The Site
 is intended to be used by users ("User" or "Users") in connection with
@@ -70,7 +77,7 @@ then you may not access the Service. If these terms and conditions are
 considered an offer by GORILLADEVS, acceptance is expressly limited to
 these terms.
 
-2.  #### General Account Terms
+2. #### General Account Terms
 
 You must be a human. Accounts registered by "bots" or other automated
 methods are not permitted.
@@ -272,7 +279,7 @@ The Gdlauncher ("Software") (including any releases, revisions, updates
 or enhancements to the Software) and any documentation that accompanies
 or is made available in connection with Software (including any
 subscription or purchase information, product packaging) (the
-**"**Documentation"), is owned by GORILLADEVS or its licensors. This
+"Documentation"), is owned by GORILLADEVS or its licensors. This
 includes all Intellectual Property Rights in and to the Software and
 Documentation. Any Software that GORILLADEVS provides to you is
 licensed, not sold to you, and GORILLADEVS reserves all rights to the
@@ -343,8 +350,8 @@ Agreement.
 Users may request data related to their personal account and group(s)
 respectively. GORILLADEVS has the right to refuse repetitive or
 technically difficult requests. For information about how we collect and
-share user information please refer to our <u>[Customer Privacy
-Statement]<u>.
+share user information please refer to our <u>Customer Privacy
+Statement</u>.
 
 11. #### Disclaimer of Warranties
 
