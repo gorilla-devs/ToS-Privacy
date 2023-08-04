@@ -4,42 +4,6 @@ last_updated: August 2, 2023
 
 # TERMS OF USE FOR GORILLADEVS, INC.
 
-<u>Table of Contents</u>
-
-1.  [Our Services](#our-services)
-
-2.  [General Account Terms](#general-account-terms)
-
-3.  [Communication](#communication)
-
-4.  [Content](#content)
-
-5.  [Our Fees](#our-fees)
-
-6.  [Copyright Policy](#copyright-policy)
-
-7.  [GORILLADEVS Intellectual Property Ownership](#gorilladevs-intellectual-property-ownership)
-
-8.  [Software License Terms](#software-license-terms)
-
-9.  [Changes](#changes)
-
-10. [Data](#data)
-
-11. [Disclaimer of Warranties](#disclaimer-of-warranties)
-
-12. [Limitation of Liability](#limitation-of-liability)
-
-13. [Indemnification](#indemnification)
-
-14. [Dispute Resolution](#disputes-resolution)
-
-15. [Miscellaneous](#miscellaneous)
-
-16. [Contacting GORILLADEVS](#contacting-gorilladevs)
-
-<!-- Comment to prevent next element from being next one in list -->
-
 1. #### Our Services
 
 The following terms and conditions ("**Terms**") govern use of all

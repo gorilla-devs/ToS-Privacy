@@ -15,32 +15,8 @@ _If we make important changes to this privacy statement, we will post a
 notice on our website and/or contact our customers as appropriate or as
 required by applicable law._
 
-<u>Table of Contents</u>
 
-1. [What does this privacy statement cover?](#what-does-this-privacy-statement-cover)
-
-2. [What personal, user and product data does GORILLADEVS collect and how does GORILLADEVS use and share the personal data it collects?](#what-personal-user-and-product-data-does-gorilladevs-collect-and)
-
-3. [Does GORILLADEVS use cookies and related technologies on its websites?](#does-gorilladevs-use-cookies-and-related-technologies-on-its)
-
-4. [Does GORILLADEVS collect personal data from children?](#does-gorilladevs-collect-personal-data-from-children)
-
-5. [How long does GORILLADEVS retain the personal data it collects?](#how-long-does-gorilladevs-retain-the-personal-data-it-collects)
-
-6. [Does GORILLADEVS sell personal data?](#does-gorilladevs-sell-personal-data)
-
-7. [Does GORILLADEVS transfer personal data across borders?](#does-gorilladevs-transfer-personal-data-across-borders)
-
-8. [How does GORILLADEVS protect personal data?](#how-does-gorilladevs-protect-personal-data)
-
-9. [How can I review, correct, amend or delete my personal data?](#how-can-i-review-correct-amend-or-delete-my-personal-data)
-
-10. [How can I contact GORILLADEVS?](#how-can-i-contact-gorilladevs)
-
-<!-- Comment to prevent next element from being next one in list -->
-
-
-1. #### What does this privacy statement cover?
+1.  #### What does this privacy statement cover?
 
 This statement describes GORILLADEVS's customer privacy practices for
 our GORILLADEVS -branded global websites, GORILLADEVS services,
@@ -113,7 +89,7 @@ share your personal and user data:
   promotions. If you wish to unsubscribe from our marketing, please
   follow the opt-out link in the communications you receive from us;
   update your contact preferences in your GORILLADEVS account
-  settings; or click [here]{.underline}.
+  settings; or click here.
 
 - **_Product Registration:_** If you use GORILLADEVS services, you may
   choose to establish a GORILLADEVS user account. A GORILLADEVS user
@@ -179,7 +155,7 @@ applicable law, GORILLADEVS will acquire consent from you prior to using
 certain cookies during your GORILLADEVS website experience or will offer
 you the opportunity to choose which types of cookies to enable or
 disable. To review or change your cookie preferences on our site, please
-click [here]{.underline}.
+click [here].
 
 To serve and manage cookies, and related technologies such as tags and
 website data analytics tools, GORILLADEVS may use products and services
