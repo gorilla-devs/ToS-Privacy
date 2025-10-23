@@ -1,12 +1,12 @@
 ---
-last_updated: December 27, 2024
+last_updated: November 1, 2025
 ---
 
 **GORILLADEVS, INC. CUSTOMER PRIVACY STATEMENT**
 
-**_GORILLADEVS, INC.(“GORILLADEVS ”) values your privacy._** To learn more about what personal and user data GORILLADEVS collects, uses, retains and shares; how we protect your personal data in compliance with applicable laws such as the General Data Protection Regulation 2016/679 (“GDPR”); and what choices and means of control you have over your personal data, please read this statement in its entirety.
+**_GORILLADEVS, INC.("GORILLADEVS ") values your privacy._** To learn more about what personal and user data GORILLADEVS collects, uses, retains and shares; how we protect your personal data in compliance with applicable laws such as the General Data Protection Regulation 2016/679 ("GDPR"); and what choices and means of control you have over your personal data, please read this statement in its entirety.
 
-**_This privacy statement was last updated on November 12, 2024._**
+**_This privacy statement was last updated on November 1, 2025._**
 
 _If we make important changes to this privacy statement, we will post a notice on our Site and/or contact our customers as appropriate or as required by applicable law._
 
@@ -25,7 +25,7 @@ _If we make important changes to this privacy statement, we will post a notice o
     
 1. **What does this privacy statement cover?**
 
-This statement describes GORILLADEVS’s customer privacy practices for our GORILLADEVS -branded global SSites, GORILLADEVS services, GORILLADEVS customer sales and marketing activities, and GORILLADEVS customer services and support functions, among others. This statement does not apply to GORILLADEVS employee data practices. This privacy statement does not extend to Overwolf, and Overwolf is not a party to this privacy statement.
+This statement describes GORILLADEVS's customer privacy practices for our GORILLADEVS -branded global SSites, GORILLADEVS services, GORILLADEVS customer sales and marketing activities, and GORILLADEVS customer services and support functions, among others. This statement does not apply to GORILLADEVS employee data practices. We share your email address in hashed form with Overwolf Ltd., a third-party advertising platform that operates independently under its own privacy policy at <https://www.overwolf.com/legal/privacy>, for personalized advertising purposes. You can opt out at any time in Settings > Privacy.
 
 Please also note that certain GORILLADEVS Sites, or software experiences may have links to third-party Sites or services. In most cases, those third-party resources are subject to the privacy practices and policies of those third parties and not GORILLADEVS.
 
@@ -59,6 +59,7 @@ The following table provides further information on some of the specific types o
 | Internet Protocol (IP) Addresses                                           | Web, Network and Product Security; Marketing & Social Media; Customer Service & Support                                    | GORILLADEVS subsidiaries and affiliates; Vendors and Suppliers                                                                            |
 | Social Media Profile Information                                           | Marketing & Social Media, Customer Service & Support                                                                       | Vendors and Suppliers; Marketing agencies who handle campaigns/contests on behalf of GORILLADEVS                                          |
 | Employment Background and Screening Information                            | Job Applications and Employment Screening                                                                                  | GORILLADEVS subsidiaries and affiliates; Vendors and Suppliers                                                                            |
+| Email Address (Hashed/Pseudonymized)                                       | Personalized Advertising                                                                                                   | Overwolf Ltd. and their vendors and partners                                                                                              |
 
 3. **Does GORILLADEVS use cookies and related technologies on its Sites?**
 
@@ -81,17 +82,21 @@ If you do not know how to control or delete cookies or would like to opt-out of 
 
 For additional information: <https://www.consumer.ftc.gov/articles/how-protect-your-privacy-online>
 
-_Hash Email_
+_Hash Email and Sharing with Advertising Partners_
 
 A hashed email is a form of data encryption where an email address is converted into a unique string of characters through a cryptographic algorithm. This process ensures that the original email address is not directly accessible, thereby enhancing privacy and security. Hashed emails are commonly used in ad personalization to create a more tailored advertising experience for users.
 
+When you create a GDLauncher account, we share your email address in hashed (pseudonymized) form with Overwolf Ltd., our advertising platform partner, for online advertising purposes. The hashing process irreversibly converts your email into a pseudonymized identifier that cannot be reversed to reveal your actual email address.
+
+**Legal Basis:** We process your email for advertising purposes under the legitimate interest legal basis (GDPR Article 6(1)(f)). Our legitimate interest is to sustain GDLauncher as a free application through privacy-respecting advertising revenue. We have balanced this interest against your privacy rights and determined that the hashing technique provides strong privacy protection, you retain the right to object at any time, and the privacy impact is minimal.
+
 _Sharing of Hashed Emails_
 
-It is important to clarify that only the hashed version of an email is shared with third-party partners. This means that the original email address remains confidential.
+It is important to clarify that only the hashed version of an email is shared with Overwolf and their advertising partners. This means that the original email address remains confidential and is never exposed to advertisers. Overwolf may share the hashed email with their identity vendor partners to enable personalized advertising across their network.
 
 _Opting Out of Hashed Email Use_
 
-We understand that privacy preferences vary among individuals. Therefore, users have the option to opt out of the use of their hashed emails. To do so you can open the in-app settings. We are committed to respecting user choices and ensuring transparency in our data practices.
+We understand that privacy preferences vary among individuals. Therefore, users have the option to opt out of the use of their hashed emails for advertising purposes. To do so, you can navigate to Settings > Privacy in the GDLauncher application and toggle off "Email-Based Ad Personalization." When you opt out, we will immediately stop sharing your email with advertising partners and clear the hashed email from our systems. Hashed emails previously shared with Overwolf and their partners may be retained according to their respective data retention policies. We are committed to respecting user choices and ensuring transparency in our data practices.
 
 4. **Does GORILLADEVS collect personal data from children?**
 
@@ -104,7 +109,8 @@ GORILLADEVS intends to retain personal data only as long as necessary to complet
 - your GORILLADEVS account or marketing subscription is active
 - to provide you with services or support that you have requested
 - to comply with applicable laws, including for tax and audit purposes
-- to enforce GORILLADEVS ’s rights, including litigation and debt collection
+- to enforce GORILLADEVS 's rights, including litigation and debt collection
+- **Hashed emails:** We stop sharing hashed emails immediately upon opt-out or account deletion. Hashed emails previously shared with Overwolf Ltd. and their vendors and partners are retained according to their respective data retention policies.
 
 6. **Does GORILLADEVS sell personal data?**
 
