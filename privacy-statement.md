@@ -1,12 +1,12 @@
 ---
-last_updated: November 1, 2025
+last_updated: January 1, 2026
 ---
 
 **GORILLADEVS, INC. CUSTOMER PRIVACY STATEMENT**
 
 **_GORILLADEVS, INC.("GORILLADEVS ") values your privacy._** To learn more about what personal and user data GORILLADEVS collects, uses, retains and shares; how we protect your personal data in compliance with applicable laws such as the General Data Protection Regulation 2016/679 ("GDPR"); and what choices and means of control you have over your personal data, please read this statement in its entirety.
 
-**_This privacy statement was last updated on November 1, 2025._**
+**_This privacy statement was last updated on January 1, 2026._**
 
 _If we make important changes to this privacy statement, we will post a notice on our Site and/or contact our customers as appropriate or as required by applicable law._
 
